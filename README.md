@@ -5,8 +5,8 @@ Uses SimHub's custom protocol to send telemetry data to the Arduino and displays
 
 # INSTALLATION
   - #### Install SimHub.
-  - #### Go to C:\Program Files (x86)\SimHub\_Addons\Arduino\DisplayClientV2 and replace SHCustomProtocol.h with mine.
-  - #### Go to C:\Program Files (x86)\SimHub\_Addons\Arduino\ArduinoIDE\arduino-1.6.13\libraries and put in the libraries, replace if needed.
+  - #### Go to C:\Program Files (x86)\SimHub\\_Addons\Arduino\DisplayClientV2 and replace SHCustomProtocol.h with mine.
+  - #### Go to C:\Program Files (x86)\SimHub\\_Addons\Arduino\ArduinoIDE\arduino-1.6.13\libraries and put in the libraries, replace if needed.
   - #### In SimHub:
     - Go to Arduino -> My Hardware -> Open arduino setup tool.
     - Configure and press Upload to Arduino.
